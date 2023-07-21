@@ -1,6 +1,6 @@
 # Mobile Programming Project
 
-Communicate Application for doctors and patients
+Communication Application for doctors and patients
 
 by:
 -Ahmet Güneş
